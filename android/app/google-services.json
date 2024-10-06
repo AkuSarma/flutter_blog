@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058854530214",
+    "project_id": "flutter-blog-fb22a",
+    "storage_bucket": "flutter-blog-fb22a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058854530214:android:0c8f55927bb33bd5ab9867",
+        "android_client_info": {
+          "package_name": "com.flutter.blog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtvmHR7lCrcheK00e3B2hhqnrLMr7aoSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
